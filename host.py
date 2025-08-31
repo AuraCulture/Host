@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-"""host — upload files to Catbox.moe and return direct link."""
 
 import argparse
 from pathlib import Path
@@ -43,3 +42,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
