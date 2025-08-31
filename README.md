@@ -1,7 +1,7 @@
 
 # space-for-everyone
 
-<img src="https://i.ibb.co/JW8JZzWn/logo-nobg.png" alt="space-for-everyone Logo" width="120" height="120">
+<img src="https://i.ibb.co/JW8JZzWn/logo-nobg.png" alt="space-for-everyone Logo" width="200" height="200">
 
 
 ![PyPI](https://img.shields.io/pypi/v/space-for-everyone)
@@ -46,4 +46,5 @@ Sid & kan — sofiyasenthilkumar@gmail.com
 ## License
 
 This project is licensed under the **MIT License**. See the LICENSE file for details.
+
 
