@@ -20,20 +20,6 @@ pip install space-for-everyone
 
 ---
 
-## Usage
-
-Upload a single file and get the direct link:
-
-```bash
-host myfile.png
-```
-
-Optionally, you can **copy the link to your clipboard** if `pyperclip` is installed:
-
-```bash
-host myfile.png --copy
-```
----
 
 ## Usage
 
