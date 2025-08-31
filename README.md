@@ -34,17 +34,14 @@ Optionally, you can **copy the link to your clipboard** if `pyperclip` is instal
 ```bash
 host myfile.png --copy
 ```
-
----
-## Author
-
-Sid & kan — sofiyasenthilkumar@gmail.com
-
 ---
 
 ## License
 
 This project is licensed under the **MIT License**. See the LICENSE file for details.
+
+Made by 🪙
+
 
 
 
