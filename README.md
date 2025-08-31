@@ -1,6 +1,5 @@
 
-# space-for-everyone
-
+# Host
 <img src="https://i.ibb.co/JW8JZzWn/logo-nobg.png" alt="space-for-everyone Logo" width="200" height="200">
 
 
@@ -46,5 +45,6 @@ Sid & kan — sofiyasenthilkumar@gmail.com
 ## License
 
 This project is licensed under the **MIT License**. See the LICENSE file for details.
+
 
 
