@@ -10,7 +10,7 @@ except ImportError:
     print("Please install requests: pip install requests")
     raise
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 def upload_to_catbox(file_path: Path):
     api_url = "https://catbox.moe/user/api.php"
@@ -42,4 +42,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
