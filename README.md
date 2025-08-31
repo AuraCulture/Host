@@ -3,9 +3,8 @@
 <img src="https://i.ibb.co/JW8JZzWn/logo-nobg.png" alt="space-for-everyone Logo" width="200" height="200">
 
 
-![PyPI](https://img.shields.io/pypi/v/space-for-everyone)
-![Python](https://img.shields.io/pypi/pyversions/space-for-everyone)
-![License](https://img.shields.io/badge/License-MIT-blue)
+[![PyPI](https://img.shields.io/pypi/v/space-for-everyone)](https://pypi.org/project/space-for-everyone/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 
 Host anywhere and anytime — get **instant direct links** for your files
 
@@ -41,6 +40,7 @@ host myfile.png --copy
 This project is licensed under the **MIT License**. See the LICENSE file for details.
 
 Made by 🪙
+
 
 
 
