@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""host — upload files to Catbox.moe and return direct link.
-Usage: host <path-to-file> [-c | --copy] [--userhash HASH]
-"""
+
 
 __version__ = "0.1.2"
 
@@ -16,9 +14,7 @@ except ImportError:
     raise
 
 def upload_to_catbox(file_path: Path, userhash: str | None = None, timeout: int = 60) -> str:
-    """Upload a single file to Catbox and return the direct link (string).
-    Raises RuntimeError on failure.
-    """
+
     api_url = "https://catbox.moe/user/api.php"
     data = {"reqtype": "fileupload"}
 
